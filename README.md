@@ -9,7 +9,7 @@
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=7H6E517DX2N5P5NT0345)
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 
-## Courses
+## Online Courses 💻
    One good thing aout Coursera is they provide a great financial aid application if you can't afford the course make sure you click on their financial aid application. Coursera has a strong financial aid program, so you can essentially get certificates for the entire Deep Learning specialization for cheap. 
 ### Coursera's Deep Learning Specialization:
   * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
