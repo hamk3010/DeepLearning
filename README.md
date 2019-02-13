@@ -10,7 +10,7 @@
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 
 ## Courses
-    One good thing aout Coursera is they provide a great financial aid application if you can't afford the course make sure you click on their financial aid application. Coursera has a strong financial aid program, so you can essentially get certificates for the entire Deep Learning specialization for cheap. 
+   One good thing aout Coursera is they provide a great financial aid application if you can't afford the course make sure you click on their financial aid application. Coursera has a strong financial aid program, so you can essentially get certificates for the entire Deep Learning specialization for cheap. 
 ### Coursera's Deep Learning Specialization:
   * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
   * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
