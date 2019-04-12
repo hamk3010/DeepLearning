@@ -17,5 +17,8 @@
   * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
   * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+  
+  ##Kaggle References
+   * [Kaggle Python overview](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
 
 
