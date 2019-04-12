@@ -20,6 +20,6 @@
   
 ## Kaggle References
    * [Kaggle Python overview](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
-   * [Python Visualization] (https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization) 
+   * [Python Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization) 
 
 
