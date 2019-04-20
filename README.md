@@ -21,8 +21,8 @@
  ### Coursera's Tensorflow Specialization
   * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
   
-## Kaggle References
-   * [Kaggle Python overview](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+## Kaggle Kernel References
+   * [Kaggle Python overview (with Pandas, Numpy, and Matplotlib)](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
    * [Python Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization) 
    
 ## Colab bookmarks
