@@ -22,5 +22,8 @@
 ## Kaggle References
    * [Kaggle Python overview](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
    * [Python Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization) 
+   
+## Colab bookmarks
+   * [Programming Convolutions with Keras (with a visualization of what Convolutions are doing)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=zldEXSsF8Noz)
 
 
