@@ -29,5 +29,6 @@
    * [Programming Convolutions with Keras (with a visualization of Convolutions and Pooling)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=zldEXSsF8Noz)
    * [Visualizing Convolutions and Pooling with different filters](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
    * [Keras' ImageGenerator with visualization](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb)
+   * [Keras ImageDataGenerator loading with validation data](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%203%20-%20Notebook.ipynb) 
 
 
