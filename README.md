@@ -20,6 +20,8 @@
   
  ### Coursera's Tensorflow Specialization
   * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
+ ### Udacity's Tensorflow course 
+ * [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) 
   
 ## Kaggle Kernel References
    * [Kaggle Python overview (with Pandas, Numpy, and Matplotlib)](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
